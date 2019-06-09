@@ -16,3 +16,4 @@ Below are some points which I think may affect the application,
 # Possible Outcome
 1.	Generally males got their loan approved easily.
 2.	Applicant who are buying property in Semi-Urban area will easily get their loan approved.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harshraizada/Instant-House-Loan-Approval-with-Machine-Learning/master)
