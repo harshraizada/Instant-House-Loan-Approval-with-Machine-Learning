@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harshraizada/Instant-House-Loan-Approval-with-Machine-Learning/master)
+
 # The Problem Statement:
 A company wants to know and automate the process that which customers or applicant should be given the loans for buying a house.
 # Project Description
@@ -16,7 +18,4 @@ Below are some points which I think may affect the application,
 # Possible Outcome
 1.	Generally males got their loan approved easily.
 2.	Applicant who are buying property in Semi-Urban area will easily get their loan approved.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harshraizada/Instant-House-Loan-Approval-with-Machine-Learning/master)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/harshraizada/ios-android-apps-profiling/blob/master/Profiling_of_profitable_applications_on_Google_Play_and_App_Store.ipynb/master
